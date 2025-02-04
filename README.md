@@ -36,9 +36,9 @@
 
 ## 📈 GitHub Stats  
 
-![3ixas's GitHub Streak](https://streak-stats.vercel.app/?user=3ixas&theme=radical&border_radius=5)  
-![3ixas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3ixas&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ixas&layout=compact&theme=radical)
+![3ixas's GitHub Streak](https://streak-stats.vercel.app/?user=3ixas&theme=merko&border_radius=5)  
+![3ixas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3ixas&show_icons=true&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ixas&layout=compact&theme=merko)
 
 ---
 

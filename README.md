@@ -1,4 +1,4 @@
-![Elias Bennett - Software Engineer](https://raw.githubusercontent.com/3ixas/3ixas/main/Black%20Modern%20LinkedIn%20Banner.png)
+![Elias Bennett - Software Engineer](https://github.com/3ixas/3ixas/blob/main/Black%20Modern%20LinkedIn%20Banner.png?raw=true)
 
 <h1 align="center">Hi there 👋, I'm Elias </h1>
 

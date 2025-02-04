@@ -41,8 +41,7 @@
 
 ## 📌 Pinned Projects  
 
-🔹 [**Portfolio Website**](#) – A personal portfolio showcasing my projects.  
-🔹 [**TypeScript Game**](#) – A browser-based game using TypeScript & modern frontend practices.  
-🔹 [**Full-Stack App**](#) – A team project built with React, Node.js, and PostgreSQL.  
+🔹 [**Portfolio Website**](https://3ixas.github.io/web-project/) – A personal portfolio showcasing my projects.  
+🔹 [**TypeScript Game**](https://3ixas.github.io/connect-four-game/) – A browser-based Connect Four game using TypeScript & modern frontend practices.
 
 ---

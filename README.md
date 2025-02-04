@@ -1,3 +1,5 @@
+![Elias Bennett - Software Engineer](https://raw.githubusercontent.com/3ixas/3ixas/main/Black%20Modern%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi there 👋, I'm Elias </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&pause=1000&color=39FF14&left=true&width=450&lines=Full+Stack+Software+Engineer;AI+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)

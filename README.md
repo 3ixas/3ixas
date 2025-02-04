@@ -50,3 +50,10 @@
 🔹 [**TypeScript Game**](https://3ixas.github.io/connect-four-game/) – A browser-based Connect Four game using TypeScript & modern frontend practices.
 
 ---
+
+## 🌱 Contributions & Activity  
+
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/3ixas/3ixas?color=blue&label=Commits)  
+![Last Commit](https://img.shields.io/github/last-commit/3ixas/3ixas?label=Last%20Commit)  
+
+---

@@ -36,7 +36,7 @@
 
 ## 📈 GitHub Stats  
 
-![3ixas's GitHub Streak](https://streak-stats.demolab.com?user=3ixas&theme=radical&border_radius=5)  
+![3ixas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3ixas&theme=radical&border_radius=5)  
 ![3ixas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3ixas&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ixas&layout=compact&theme=radical)
 

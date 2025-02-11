@@ -9,7 +9,7 @@
 🚀 **Currently working on:** Building full-stack applications using modern web technologies  
 📚 **Currently learning:** Java backend development  
 💬 **Ask me about:** Software engineering, AI model training, and transitioning into tech  
-⚽ **Hobbies:** Football, gym, running, history, and reading  
+⚽ **Hobbies:** Football, gym, running, history (currently learning about the rise of the American Mafia), and reading (currently reading the Game of Thrones book series). 
 
 ---
 

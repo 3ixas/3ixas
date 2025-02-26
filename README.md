@@ -52,10 +52,3 @@
 ![Goal4](https://img.shields.io/badge/Develop%20Strong%20Backend%20Engineering%20Skills-006400?style=for-the-badge)    
 
 ---
-
-## 🌱 Contributions & Activity  
-
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/3ixas/3ixas?color=blue&label=Commits)  
-![Last Commit](https://img.shields.io/github/last-commit/3ixas/3ixas?label=Last%20Commit)  
-
----

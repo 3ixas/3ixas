@@ -53,13 +53,6 @@
 
 ---
 
-## 📌 Pinned Projects  
-
-🔹 [**Portfolio Website**](https://3ixas.github.io/web-project/) – A personal portfolio showcasing my projects.  
-🔹 [**TypeScript Game**](https://3ixas.github.io/connect-four-game/) – A browser-based Connect Four game using TypeScript & modern frontend practices.
-
----
-
 ## 🌱 Contributions & Activity  
 
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/3ixas/3ixas?color=blue&label=Commits)  

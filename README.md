@@ -15,7 +15,7 @@
 
 | 🌍 Portfolio | 📄 CV |
 |-------------|------------|
-| [![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3ixas.github.io/web-project/) | [![CV](https://img.shields.io/badge/My_CV-FF6F00?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1GvCG3Gi-YLS2g5taU5YMbfWy78uByjaj/view?usp=sharing) |
+| [![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3ixas.github.io/web-project/) | [![CV](https://img.shields.io/badge/My_CV-FF6F00?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1CkfTsqkGe_suIIlvucPbkm1lJf_lTd63/view?usp=drive_link) |
 
 ---
 

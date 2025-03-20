@@ -8,10 +8,10 @@
 
 Hey, I'm Elias! I'm a **Full-Stack Software Engineer** with a background in **data-driven marketing and AI model training**, bringing a **problem-solving mindset** to software engineering.
 
-🚀 **Currently working on:** Building full-stack applications with Java, Spring Boot, TypeScript, and SQL  
-📚 **Currently learning:** React to deepen my front-end expertise  
+🚀 **Currently working on:** Building an AI-Powered Playlist Generator web application with React, TypeScript, TailwindCSS, Java Spring Boot, SQL, Spotify API, and OpenAI API\
+📚 **Currently learning:** React and TailwindCSS to deepen my front-end expertise  
 💬 **Ask me about:** Full-stack development, AI model training, and transitioning into tech  
-⚽ **Hobbies:** Football, gym, running, history (currently learning about the rise of the American Mafia), and reading Game of Thrones
+⚽ **Hobbies:** Playing football, gym, running, history (currently learning about the rise of the American Mafia), and reading Game of Thrones
 
 ---
 

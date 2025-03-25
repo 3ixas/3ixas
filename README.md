@@ -19,7 +19,7 @@ Hey, I'm Elias! I'm a **Full-Stack Software Engineer** with a background in **da
 
 | 🌍 Portfolio | 📄 CV |
 |-------------|------------|
-| [![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3ixas.github.io/web-project/) | [![CV](https://img.shields.io/badge/My_CV-FF6F00?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1CkfTsqkGe_suIIlvucPbkm1lJf_lTd63/view?usp=drive_link) |
+| [![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3ixas.github.io/web-project/) | [![CV](https://img.shields.io/badge/My_CV-FF6F00?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/16p-fQ1TLd3zh3xaKjPYpCM18fmaRxyg-/view?usp=sharing) |
 
 ---
 

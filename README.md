@@ -19,7 +19,7 @@ Hey, I'm Elias! I'm a **Full-Stack Developer** with a background in **data-drive
 
 | 🌍 Portfolio | 📄 CV |
 |-------------|------------|
-| [![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3ixas.github.io/web-project/) | [![CV](https://img.shields.io/badge/My_CV-FF6F00?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/17mvVFwzpWmGECn_6UEF8MzhIgPD9P0Bj/view?usp=sharing) |
+| [![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3ixas.github.io/web-project/) | [![CV](https://img.shields.io/badge/My_CV-FF6F00?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1n26sy7njx6hXYNPg4pS1xKM8KyLP077Z/view?usp=sharing) |
 
 ---
 

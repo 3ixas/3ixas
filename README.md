@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Elias <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1>
+<h1 align="left">Hey there, I'm Elias! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&pause=500&color=39FF14&left=true&width=600&lines=Full-Stack+Software+Engineer;Building+Scalable+%26+User-First+Applications;Passionate+About+Software+%26+Problem-Solving;Always+Learning+%26+Improving)](https://git.io/typing-svg)
 

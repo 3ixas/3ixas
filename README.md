@@ -15,20 +15,10 @@ I'm a **Full-Stack Software Engineer** passionate about building clean, user-foc
 
 ---
 
-## 🔗 **Links**  
+## 🌍 **Where you can find me**  
 
-| 🌍 Portfolio | 📄 CV |
-|-------------|------------|
-| [![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3ixas.github.io/web-project/) | [![CV](https://img.shields.io/badge/My_CV-FF6F00?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1CHGUlbObOPn-c8Bs57J_P5d8UcV_LjIH/view?usp=sharing) |
-
----
-
-## 📫 **Contact Me**  
-
-💡 **Interested in collaborating or chatting about tech?** Reach out!
-
+[![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3ixas.github.io/web-project/)\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-t-bennett)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasthebennett@gmail.com)  
 
 ---
 

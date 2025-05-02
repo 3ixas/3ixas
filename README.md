@@ -40,7 +40,7 @@ You’ll find me playing football, lifting weights, going on runs, learning abou
 
 ![3ixas's GitHub Streak](https://streak-stats.vercel.app/?user=3ixas&theme=merko&border_radius=5)  
 ![3ixas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3ixas&show_icons=true&theme=merko)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ixas&layout=compact&langs_count=8&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ixas&layout=compact&langs_count=10&theme=merko)
 
 ---
 

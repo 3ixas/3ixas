@@ -8,7 +8,7 @@
 I'm Elias — a full-stack software engineer with a background in AI model training and data-driven marketing. I love building clean, user-first applications and tackling complex problems with thoughtful, scalable solutions.
 
 #### 🛠️ Currently working on...
-An AI-powered history chatbot designed to help users explore historical questions in a fun, engaging way; using Python + Django, HTML + SASS, OpenAI GPT API, and SQLite or PostgreSQL (not sure which yet!)
+A full-stack web application that generates intelligent, personalised workouts based on user context – like time available, energy level, equipment available, and training goal.
 
 #### 📚 Currently learning...
 C# to strenghten my backend skills

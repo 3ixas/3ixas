@@ -23,7 +23,7 @@ You’ll find me playing football, lifting weights, going on runs, learning abou
 
 ## 🌍 **Where you can find me**  
 
-[![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3ixas.github.io/web-project/)\
+[![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eliasb.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-t-bennett)  
 
 ---

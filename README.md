@@ -1,23 +1,23 @@
 <h1 align="left">Hey there, I'm Elias! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&pause=500&color=39FF14&left=true&width=600&lines=Full-Stack+Software+Engineer;Building+Scalable+%26+User-First+Applications;Passionate+About+Software+%26+Problem-Solving;Always+Learning+%26+Improving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&pause=500&color=39FF14&left=true&width=600&lines=Security+Cleared+Software+Engineer;AI+Model+Trainer+%26+Full-Stack+Developer;Building+Scalable%2C+Real-World+Applications;Always+Learning+%26+Improving)](https://git.io/typing-svg) 
 
 ---
 
 ## 👨‍💻 About Me
-I'm Elias — a full-stack software engineer with a background in AI model training and data-driven marketing. I love building clean, user-first applications and tackling complex problems with thoughtful, scalable solutions.
+I'm Elias — a security cleared software engineer with experience building full-stack applications, optimising backend systems, and training AI models. I've delivered real-world features and performance wins across startups and global platforms, and sharpened my skills through _nology’s industry-grade bootcamp.
 
 #### 🛠️ Currently working on...
-A full-stack web application that generates intelligent, personalised workouts based on user context – like time available, energy level, equipment available, and training goal.
+Building a full-stack app that generates AI-powered, personalised workouts based on user goals, energy levels, and available equipment.
 
 #### 📚 Currently learning...
-C# to strenghten my backend skills
+C# and ASP.NET Core to deepen my backend skills while refining full-stack project deployment and CI/CD.
 
 #### 💬 Ask me about...
 Full-stack development, AI model training, and transitioning into tech from a non-traditional background
 
 #### ⚽ Outside of tech...
-You’ll find me playing football, lifting weights, going on runs, learning about periods or events in history (currently exploring Ancient Egypt), or reading epic fantasy (currently deep into A Game Of Thrones)
+You’ll find me playing football, lifting weights, going on runs, learning about periods or events in history (currently exploring Ancient Egypt), or reading epic fantasy (currently deep into *A Game Of Thrones*).
 
 ---
 

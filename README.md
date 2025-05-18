@@ -2,21 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&pause=500&color=39FF14&left=true&width=600&lines=Security+Cleared+Software+Engineer;AI+Model+Trainer+%26+Full-Stack+Developer;Building+Scalable%2C+Real-World+Applications;Always+Learning+%26+Improving)](https://git.io/typing-svg) 
 
----
-
-## 👨‍💻 About Me
-I'm Elias — a security cleared software engineer with experience building full-stack applications, optimising backend systems, and training AI models. I've delivered real-world features and performance wins across startups and global platforms, and sharpened my skills through _nology’s industry-grade bootcamp.
-
-#### 🛠️ Currently working on...
+### 🛠️ Currently working on...
 Building a full-stack app that generates AI-powered, personalised workouts based on user goals, energy levels, and available equipment.
 
-#### 📚 Currently learning...
-C# and ASP.NET Core to deepen my backend skills while refining full-stack project deployment and CI/CD.
-
-#### 💬 Ask me about...
-Full-stack development, AI model training, and transitioning into tech from a non-traditional background
-
-#### ⚽ Outside of tech...
+### ⚽ Outside of tech...
 You’ll find me playing football, lifting weights, going on runs, learning about periods or events in history (currently exploring Ancient Egypt), or reading epic fantasy (currently deep into *A Game Of Thrones*).
 
 ---
@@ -38,8 +27,7 @@ You’ll find me playing football, lifting weights, going on runs, learning abou
 
 ## 📈 **GitHub Stats**  
 
-![3ixas's GitHub Streak](https://streak-stats.vercel.app/?user=3ixas&theme=merko&border_radius=5)  
-![3ixas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3ixas&show_icons=true&theme=merko)  
+![3ixas's GitHub Streak](https://streak-stats.vercel.app/?user=3ixas&theme=merko&border_radius=5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ixas&layout=compact&langs_count=12&theme=merko)
 
 ---

@@ -29,12 +29,3 @@ You’ll find me playing football, lifting weights, going on runs, learning abou
 
 ![3ixas's GitHub Streak](https://streak-stats.vercel.app/?user=3ixas&theme=merko&border_radius=5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ixas&layout=compact&langs_count=12&theme=merko)
-
----
-
-## 🎯 **2025 Goals**  
-
-![Goal1](https://img.shields.io/badge/Build%203%2B%20Full--Stack%20Projects-blue?style=for-the-badge)  
-![Goal2](https://img.shields.io/badge/Contribute%20to%20Open%20Source-orange?style=for-the-badge)  
-![Goal3](https://img.shields.io/badge/Build%201%2B%20AI%20Involved%20Project-purple?style=for-the-badge)  
-![Goal4](https://img.shields.io/badge/Develop%20Strong%20Backend%20Engineering%20Skills-006400?style=for-the-badge)    

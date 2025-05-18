@@ -10,13 +10,6 @@ You’ll find me playing football, lifting weights, going on runs, learning abou
 
 ---
 
-## 🌍 **Where you can find me**  
-
-[![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eliasb.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-t-bennett)  
-
----
-
 ## 🚀 **Technical Skills**
 
 #### Languages
@@ -52,3 +45,10 @@ You’ll find me playing football, lifting weights, going on runs, learning abou
 
 ![3ixas's GitHub Streak](https://streak-stats.vercel.app/?user=3ixas&theme=merko&border_radius=5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ixas&layout=compact&langs_count=12&theme=merko)
+
+---
+
+## 🌍 **Where you can find me**  
+
+[![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eliasb.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-t-bennett)  

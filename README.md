@@ -12,7 +12,7 @@ You’ll find me playing football, lifting weights, going on runs, learning abou
 
 ## 🚀 **Technical Skills**
 
-#### Languages
+#### Languages:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
@@ -24,7 +24,7 @@ You’ll find me playing football, lifting weights, going on runs, learning abou
 
 ---
 
-#### Frameworks
+#### Frameworks:
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0)
@@ -33,7 +33,7 @@ You’ll find me playing football, lifting weights, going on runs, learning abou
 
 ---
 
-#### Testing
+#### Testing:
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/docs/)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://docs.cypress.io/)
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)](https://junit.org/junit5/docs/current/user-guide/)

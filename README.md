@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&pause=500&color=39FF14&left=true&width=600&lines=Security+Cleared+Software+Engineer;AI+Model+Trainer+%26+Full-Stack+Developer;Building+Scalable%2C+Real-World+Applications;Always+Learning+%26+Improving)](https://git.io/typing-svg) 
 
 #### Currently working on...
-...building a full-stack app that generates AI-powered, personalised workout plans with React, TypeScript, TailwindCSS, and Java SpringBoot.
+...building a full-stack app that generates AI-powered, personalised workout plans with React, TypeScript, TailwindCSS, Java SpringBoot, and PostgreSQL.
 
 #### Outside of tech...
 ...you’ll find me playing football, lifting weights, going on runs, learning about periods or events in history (currently exploring Ancient Egypt), or reading epic fantasy (currently deep into *A Game Of Thrones*).

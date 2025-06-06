@@ -44,6 +44,27 @@
 
 ---
 
+## 🛠 **Projects I've worked on recently**
+
+### 🎩 [Ask Professor Past](https://askprofessorpast.com)
+
+> *An AI-powered history chatbot with charm, wit, and scholarly wisdom.*
+
+A full-stack educational chatbot that lets users converse with an eccentric Oxford-style professor about history. Built with Python/Django, HTML/CSS, and OpenAI’s GPT API. Includes mobile-first design, markdown export, and playful UI touches for an engaging learning experience.
+
+[![Visit Live Site](https://img.shields.io/badge/Live_Demo-askprofessorpast.com-brightgreen?style=flat-square&logo=google-chrome&logoColor=white)](https://askprofessorpast.com)
+[![View Source](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/3ixas/ask-professor-past)
+
+### 📊 Financial Risk Event Tracker API
+
+> *A clean, testable C# REST API for tracking financial risk events.*
+
+Enterprise-style ASP.NET Core Web API that tracks operational, cyber, or market risks with full CRUD operations, Swagger docs, EF Core persistence, and xUnit testing — all following clean architecture principles. Includes Docker support for containerised deployment.
+
+[![View Source](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/3ixas/risk-event-tracker)
+
+---
+
 ## 📈 **GitHub Stats**  
 
 ![3ixas's GitHub Streak](https://streak-stats.vercel.app/?user=3ixas&theme=merko&border_radius=5)

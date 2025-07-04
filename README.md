@@ -8,13 +8,6 @@
 
 ---
 
-## 🌍 **Where you can find me**  
-
-[![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eliasb.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-t-bennett)  
-
----
-
 ## 🚀 **Technical Skills**
 
 #### Languages:
@@ -59,6 +52,13 @@ A full-stack educational chatbot that lets users converse with an eccentric Oxfo
 Enterprise-style ASP.NET Core Web API that tracks operational, cyber, or market risks with full CRUD operations, Swagger docs, EF Core persistence, and xUnit testing — all following clean architecture principles. Includes Docker support for containerised deployment.
 
 [![View Source](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/3ixas/risk-event-tracker)
+
+---
+
+## 🌍 **Where you can find me**  
+
+[![Website](https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eliasb.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-t-bennett)  
 
 ---
 

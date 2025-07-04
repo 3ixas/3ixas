@@ -1,8 +1,5 @@
 <h1 align="left">Hey there, I'm Elias! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&pause=500&color=39FF14&left=true&width=600&lines=Security+Cleared+Software+Engineer;AI+Model+Trainer+%26+Full-Stack+Developer;Building+Reliable+Systems+%26+AI+Tools;Always+Learning%2C+Always+Improving)](https://git.io/typing-svg)
-
-
 #### Currently working on...
 ...a backend-focused learning roadmap covering C#, Java, Python, system design, clean architecture, and high-performance engineering — with a focus on real-world impact and long-term growth.
 

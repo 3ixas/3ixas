@@ -25,12 +25,12 @@
 
 ## 🛠 Selected Projects
 
-### 🎩 Ask Professor Past — [Live](https://askprofessorpast.com) · [Source](https://github.com/3ixas/ask-professor-past)
+### Ask Professor Past — [Live](https://askprofessorpast.com) · [Source](https://github.com/3ixas/ask-professor-past)
 Conversational history tutor with a tongue-in-cheek “Oxford professor” persona.  
 **Stack:** Python (Django), OpenAI API, HTML/CSS  
 **Highlights:** mobile-first UI, persistent chat history, Markdown export, tidy views/templates, lightweight error handling.
 
-### 📊 Financial Risk Event Tracker API — [Source](https://github.com/3ixas/risk-event-tracker)
+### Financial Risk Event Tracker API — [Source](https://github.com/3ixas/risk-event-tracker)
 Clean, testable REST API for tracking operational/cyber/market risk events.  
 **Stack:** C#/.NET (Web API), EF Core, xUnit, Swagger/OpenAPI, Docker  
 **Highlights:** validated CRUD endpoints, clear domain/services layers, OpenAPI docs, xUnit suite, containerised for local run.

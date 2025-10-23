@@ -31,6 +31,6 @@ Conversational history tutor with a tongue-in-cheek “Oxford professor” perso
 **Highlights:** mobile-first UI, persistent chat history, Markdown export, tidy views/templates, lightweight error handling.
 
 ### Financial Risk Event Tracker API — [Source](https://github.com/3ixas/risk-event-tracker)
-Clean, testable REST API for tracking operational/cyber/market risk events.\
+Clean, testable REST API for tracking operational/cyber/market risk events.
 **Stack:** C#/.NET (Web API), EF Core, xUnit, Swagger/OpenAPI, Docker  
 **Highlights:** validated CRUD endpoints, clear domain/services layers, OpenAPI docs, xUnit suite, containerised for local run.

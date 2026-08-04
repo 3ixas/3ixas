@@ -1,8 +1,6 @@
 # Elias Bennett
 
-I’m a software engineer building financial systems with C#/.NET. Outside work, I build end-to-end products with TypeScript and React.
-
-I care about the decisions behind reliable software: data flow, failure modes, maintainability, and the product experience around them.
+I’m a software engineer building financial systems with C#/.NET. Outside work, I build end-to-end products with TypeScript and Python.
 
 ## Selected work
 
